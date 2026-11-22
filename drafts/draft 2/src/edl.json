@@ -1,0 +1,33 @@
+{
+  "fps": 30,
+  "rate": 1.0,
+  "endCardSeconds": 4.5,
+  "segments": [
+    {
+      "take": "C011",
+      "in": 0.8,
+      "out": 3.82
+    },
+    {
+      "take": "C017",
+      "in": 6.4,
+      "out": 18.5
+    },
+    {
+      "take": "C011",
+      "in": 15.98,
+      "out": 24.95
+    },
+    {
+      "take": "C017",
+      "in": 27.1,
+      "out": 34.7
+    },
+    {
+      "take": "C011",
+      "in": 33.4,
+      "out": 41.7
+    }
+  ],
+  "footage": "footage-ec"
+}
